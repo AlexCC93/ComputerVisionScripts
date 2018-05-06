@@ -1,2 +1,2 @@
 # ComputerVisionScripts
-This is a folder including MatlabScripts and OpenCV_Scripts subfolders, which will contain scripts for computer vision projects.
+This is a repository that includes MatlabScripts and OpenCV_Scripts folders, which will contain scripts for computer vision projects.
