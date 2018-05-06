@@ -1,0 +1,47 @@
+Programas de matlab para los ejemplos:
+	1ro. Abrir imagenes. Para las primeras tareas básicas.
+	2do. ImagenesAColor. Para sumar dos imagenes y multiplicar por un escalar
+	3ra. ImageDifference. Para la resta de dos imagnes.
+	4ta. BlendImages. Para combinar imagenes.
+	5to. GenerarRuidoGaussian. Para mostrar el ruido gaussian y el salt and pepper.
+	6to. meanFilter_averageFilter. Para mostrar el filtro medio, el promedio.
+	7mo. GaussianFilter. Filtro gausiano con parametros circular y replicate 
+	8vo. GaussianFilterRecommended. Filtro gausiano recomendado por Matlab.
+	9no. medianFilter. Filtro mediano.
+	10mo. FindTemplateInImage. ejemplo de econtrar template en una imagen.
+	10.5mo. FindTemplateInImageWithNoFunction. encontrar template en imagen, sin utilizar funciones. 
+	11vo. edgeDetection. Para ver los tipos de deteccion de bordes (canny y log).
+	12vo. pruebasHoughTransformLines. Para ver la detección de líneas.
+Ver hough lines.
+	13vo.FindCirclesFunction. para detectar circulos
+	14vo.FindCirclesFunction2. para detectar circulos, cambian parametros.
+	15vo.adaptiveAndBinarizeImage. para binarizar imagenes a partir de un umbral.
+	16to.GraytreshOtsusBinarization. para comparar el metodo Otsu con el adaptativo. 
+					Utilizar el ultimo codigo de comparacion de los metodos.
+	17vo. dilationAndErosion. se realiza la dilatacion y erosion
+	18vo. CentroidOFObject. 
+		Nota: acciones en photoshop->Seleccionar->gama de colores, ok. Ventana-> histograma.
+	19no. MathCard. Muestra la deteccion de objetos con RANSAC, ejemplo de la carta.
+	19.5no. ObjectDetectionWithRANSAC. Detecta el celular, pero no funciona en su totalidad.
+	20vo. GradientImageWithDifferentMethods.
+	20vo. FacePeopleDetection. Muestra la deteccion de personas. De la carpeta que esta dentro
+					Programas vision artificial, es el ejemplo de matlab.
+	22do. peopleDetection. Deteccion de personas, fuera de la carpeta de ejemplo de matlab y que
+					curiosamente al ser la imagen un poco mas pequenia detecta
+					a todas las personas en esa imagen, con los mismos parametros
+	21ro. PeopleRecognition. Deteccion de personas pero con otra foto. Con parametros cambiados
+					acordes a esa nueva foto. Haciendo pruebas con el objeto de 
+					vision.PeopleDetector().
+	23ro. FaceDetection. Mostrar la detección de rostros, hombros y ojos. Hace uso del objeto
+					vision.CascadeObjectDetector().
+	24to. TrainAStopSignDetectorExample. Ejemplo de matlab para la clasificacion de objetos.
+	25to. SetupFaceTrackingAndRecognition. Ejemplo de seguimiento y reconocimiento de rostro en video.
+	25to. SimpleFaceRecognition. Ejemplo para reconocimienot de rostros, alternativa a CascadeObjectDetector,
+					viene con su clasificador tambien.
+	
+	
+	
+	
+
+
+ 

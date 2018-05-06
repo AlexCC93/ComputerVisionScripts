@@ -1,0 +1,4 @@
+direction of the program TrainAStopSignDetectorExample:
+	C:\Program Files\MATLAB\R2016a\examples\vision 
+direction of the stopSigns.mat file:
+	C:\Program Files\MATLAB\R2016a\toolbox\vision\visiondata
