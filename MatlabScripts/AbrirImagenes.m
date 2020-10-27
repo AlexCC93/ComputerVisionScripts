@@ -11,7 +11,7 @@ imshow(imred)
 title('Red values of the image')
 subplot(2,2,3);
 imshow(imgreen)
-title('Green values of the image')
+title('Cambio en rama')
 subplot(2,2,4);
 imshow(imblue)
 title('Cambio')
