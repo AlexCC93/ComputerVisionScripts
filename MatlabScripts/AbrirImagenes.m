@@ -14,7 +14,7 @@ imshow(imgreen)
 title('Green values of the image')
 subplot(2,2,4);
 imshow(imblue)
-title('Blue values of the image')
+title('Cambio')
 
 %% drawing a line within a picture
 % im=imread('Mona Lisa.jpg');
